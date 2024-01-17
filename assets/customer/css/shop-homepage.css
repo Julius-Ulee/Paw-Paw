@@ -1,0 +1,22 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/template/shop-homepage)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@400;500;600;700;800&display=swap");
+body {
+	padding-top: 56px;
+	font-family: "Mulish", sans-serif;
+}
+
+.navbar,
+footer {
+	background-color: #4e73df;
+	background-image: linear-gradient(10deg, #4e73df 10%, #224abe 100%);
+	background-size: cover;
+}
+
+.nav-item {
+	margin-right: 15px;
+	font-weight: 500;
+}
