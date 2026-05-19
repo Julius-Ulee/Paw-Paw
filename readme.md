@@ -20,6 +20,6 @@ Buka Chrome ketik url : https://localhost/Paw-Paw
 # Install On Windows ✅
 
 ```bash
-$ git clone https://github.com/Julius-Ulee/Paw-Paw.git
+$ git clone https://github.com/0zunu/Paw-Paw.git
 $ cd Paw-Paw
 ```
